@@ -1,0 +1,14 @@
+
+body {
+    padding: 50px;
+    font-family: 'Roboto Slab';
+}
+
+h1, h2 a {
+    color: #a7a903;
+    font-weight: 800;
+}
+
+p {
+    font-weight: 300;
+}
